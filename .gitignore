@@ -1,0 +1,26 @@
+# Built Application Files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Local configuration
+local.properties
+gradle.properties
+
+# OSX Files
+.DS_Store
+
+# Android Studio
+.idea/
+.gradle/
+build/
+*.iml
+
+# Personal Files
+signing.properties
